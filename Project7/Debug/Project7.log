@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\jordy\source\repos\Project7\Project7\MyForm.h(223,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordy\source\repos\Project7\Project7\MyForm.h(259,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordy\source\repos\Project7\Project7\MyForm.h(272,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordy\source\repos\Project7\Project7\MyForm.h(250): warning C4700: uninitialized local variable 'mode' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project7.vcxproj -> C:\Users\jordy\source\repos\Project7\Debug\Project7.exe
